@@ -1,0 +1,431 @@
+# depslib dependency file v1.0
+1668127473 source:c:\main.cpp
+	<iostream>
+
+1668306613 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\main.cpp
+	<iostream>
+	"include/Login.h"
+	"include/Menus.h"
+	"include/Arquivo.h"
+
+1668305682 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\login.cpp
+	<iostream>
+	"../include/Login.h"
+	<string>
+	<string.h>
+
+1668136657 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\login.h
+	<string>
+
+1668137082 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\menus.h
+
+1668304861 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\menus.cpp
+	<iostream>
+	<string.h>
+	<string>
+	"../include/Menus.h"
+	"../include/CadastroPaciente.h"
+	"../include/BuscaPaciente.h"
+
+1668136959 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\src\menu.cpp
+
+1668140681 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\src\arquivo.cpp
+	"../include/Arquivo.h"
+
+1668140546 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\include\arquivo.h
+
+1668140689 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\src\buscapaciente.cpp
+	"../include/BuscaPaciente.h"
+
+1668140565 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\include\buscapaciente.h
+
+1668140699 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\src\cadastropaciente.cpp
+	"../include/CadastroPaciente.h"
+
+1668140531 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\include\cadastropaciente.h
+
+1668140744 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\src\login.cpp
+	<iostream>
+	"../include/Login.h"
+	<string>
+	<string.h>
+
+1668136657 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\include\login.h
+	<string>
+
+1668140805 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\src\menus.cpp
+	<iostream>
+	<string.h>
+	"../include/Menus.h"
+
+1668137082 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\include\menus.h
+
+1668140977 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid - copia\main.cpp
+	<iostream>
+	"include/Login.h"
+	"include/Menus.h"
+
+1668136657 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\login.h
+	<string>
+
+1668137082 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\menus.h
+
+1668305849 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\arquivo.cpp
+	"../include/Arquivo.h"
+	"../include/Paciente.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<string>
+
+1668294597 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\arquivo.h
+	"../include/Paciente.h"
+	<string>
+
+1668306727 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\buscapaciente.cpp
+	"../include/BuscaPaciente.h"
+	"../include/Arquivo.h"
+	"../include/Tabela.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1668293798 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\buscapaciente.h
+
+1668305742 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\cadastropaciente.cpp
+	"../include/CadastroPaciente.h"
+	"../include/Paciente.h"
+	"../include/Arquivo.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+
+1668218647 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\cadastropaciente.h
+
+1668136959 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\menu.cpp
+
+1668223623 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\paciente.cpp
+	"Paciente.h"
+	<string>
+
+1668218747 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\paciente.h
+	<string>
+
+1668299195 source:c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\src\tabela.cpp
+	"Tabela.h"
+	<stdexcept>
+	<iomanip>
+	<stdexcept>
+
+1668299134 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\tabela.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	"impl/TabelaPrinter.tpp.h"
+
+1668306345 c:\users\bruno\desktop\unip\workspace\cadastropacientecovid\include\impl\tabelaprinter.tpp.h
+	<boost/spirit/include/karma.hpp>
+
+1668306614 source:d:\download\cadastropacientecovid\main.cpp
+	<iostream>
+	"include/Login.h"
+	"include/Menus.h"
+	"include/Arquivo.h"
+
+1668136658 d:\download\cadastropacientecovid\include\login.h
+	<string>
+
+1668137084 d:\download\cadastropacientecovid\include\menus.h
+
+1668294598 d:\download\cadastropacientecovid\include\arquivo.h
+	"../include/Paciente.h"
+	<string>
+
+1668218748 d:\download\cadastropacientecovid\include\paciente.h
+	<string>
+
+1668305850 source:d:\download\cadastropacientecovid\src\arquivo.cpp
+	"../include/Arquivo.h"
+	"../include/Paciente.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<string>
+
+1668306728 source:d:\download\cadastropacientecovid\src\buscapaciente.cpp
+	"../include/BuscaPaciente.h"
+	"../include/Arquivo.h"
+	"../include/Tabela.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1668293800 d:\download\cadastropacientecovid\include\buscapaciente.h
+
+1668299136 d:\download\cadastropacientecovid\include\tabela.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	"impl/TabelaPrinter.tpp.h"
+
+1668306346 d:\download\cadastropacientecovid\include\impl\tabelaprinter.tpp.h
+	<boost/spirit/include/karma.hpp>
+
+1668305744 source:d:\download\cadastropacientecovid\src\cadastropaciente.cpp
+	"../include/CadastroPaciente.h"
+	"../include/Paciente.h"
+	"../include/Arquivo.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+
+1668218648 d:\download\cadastropacientecovid\include\cadastropaciente.h
+
+1668305684 source:d:\download\cadastropacientecovid\src\login.cpp
+	<iostream>
+	"../include/Login.h"
+	<string>
+	<string.h>
+
+1668304862 source:d:\download\cadastropacientecovid\src\menus.cpp
+	<iostream>
+	<string.h>
+	<string>
+	"../include/Menus.h"
+	"../include/CadastroPaciente.h"
+	"../include/BuscaPaciente.h"
+
+1668655349 source:d:\download\cadastropacientecovid\src\paciente.cpp
+	"../include/Paciente.h"
+	<string>
+
+1668655497 source:d:\download\cadastropacientecovid\src\tabela.cpp
+	"../include/Tabela.h"
+	<stdexcept>
+	<iomanip>
+	<stdexcept>
+
+1668886583 source:d:\download\pim4\cadastropacientecovid\src\arquivo.cpp
+	"../include/Arquivo.h"
+	"../include/Paciente.h"
+	"../include/StringUtils.h"
+	"../include/DataUtils.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+
+1668879271 d:\download\pim4\cadastropacientecovid\include\arquivo.h
+	"../include/Paciente.h"
+	<string>
+
+1668218748 d:\download\pim4\cadastropacientecovid\include\paciente.h
+	<string>
+
+1668886841 source:d:\download\pim4\cadastropacientecovid\src\buscapaciente.cpp
+	"../include/BuscaPaciente.h"
+	"../include/Arquivo.h"
+	"../include/Tabela.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1668293800 d:\download\pim4\cadastropacientecovid\include\buscapaciente.h
+
+1668299136 d:\download\pim4\cadastropacientecovid\include\tabela.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	"impl/TabelaPrinter.tpp.h"
+
+1668306346 d:\download\pim4\cadastropacientecovid\include\impl\tabelaprinter.tpp.h
+	<boost/spirit/include/karma.hpp>
+
+1668137084 d:\download\pim4\cadastropacientecovid\include\menus.h
+
+1668305684 source:d:\download\pim4\cadastropacientecovid\src\login.cpp
+	<iostream>
+	"../include/Login.h"
+	<string>
+	<string.h>
+
+1668136658 d:\download\pim4\cadastropacientecovid\include\login.h
+	<string>
+
+1668873055 source:d:\download\pim4\cadastropacientecovid\src\menus.cpp
+	<iostream>
+	<string.h>
+	<string>
+	"../include/Menus.h"
+	"../include/CadastroPaciente.h"
+	"../include/BuscaPaciente.h"
+
+1668218648 d:\download\pim4\cadastropacientecovid\include\cadastropaciente.h
+
+1668655349 source:d:\download\pim4\cadastropacientecovid\src\paciente.cpp
+	"../include/Paciente.h"
+	<string>
+
+1668655497 source:d:\download\pim4\cadastropacientecovid\src\tabela.cpp
+	"../include/Tabela.h"
+	<stdexcept>
+	<iomanip>
+	<stdexcept>
+
+1668887027 source:d:\download\pim4\cadastropacientecovid\main.cpp
+	<iostream>
+	"include/Login.h"
+	"include/Menus.h"
+	"include/Arquivo.h"
+
+1668887042 source:d:\download\pim4\cadastropacientecovid\src\cadastropaciente.cpp
+	"../include/CadastroPaciente.h"
+	"../include/Paciente.h"
+	"../include/Arquivo.h"
+	"../include/StringUtils.h"
+	"../include/DataUtils.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+
+1668871379 d:\download\pim4\cadastropacientecovid\include\stringutils.h
+	<string>
+
+1668871288 source:d:\download\pim4\cadastropacientecovid\src\stringutils.cpp
+	"../include/StringUtils.h"
+	<string>
+	<iomanip>
+	<algorithm>
+
+1668885621 source:d:\download\pim4\cadastropacientecovid\src\datautils.cpp
+	"../include/DataUtils.h"
+	"../include/StringUtils.h"
+	<string>
+	<time.h>
+	<iostream>
+
+1668884413 d:\download\pim4\cadastropacientecovid\include\datautils.h
+	<string>
+	<time.h>
+
+1668887027 source:c:\users\bruno\downloads\cadastropacientecovid\main.cpp
+	<iostream>
+	"include/Login.h"
+	"include/Menus.h"
+	"include/Arquivo.h"
+
+1668900840 c:\users\bruno\downloads\cadastropacientecovid\include\login.h
+	<string>
+
+1668137084 c:\users\bruno\downloads\cadastropacientecovid\include\menus.h
+
+1668879271 c:\users\bruno\downloads\cadastropacientecovid\include\arquivo.h
+	"../include/Paciente.h"
+	<string>
+
+1668218748 c:\users\bruno\downloads\cadastropacientecovid\include\paciente.h
+	<string>
+
+1668900705 source:c:\users\bruno\downloads\cadastropacientecovid\src\arquivo.cpp
+	"../include/Arquivo.h"
+	"../include/Paciente.h"
+	"../include/StringUtils.h"
+	"../include/DataUtils.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+
+1668871379 c:\users\bruno\downloads\cadastropacientecovid\include\stringutils.h
+	<string>
+
+1668884413 c:\users\bruno\downloads\cadastropacientecovid\include\datautils.h
+	<string>
+	<time.h>
+
+1668886841 source:c:\users\bruno\downloads\cadastropacientecovid\src\buscapaciente.cpp
+	"../include/BuscaPaciente.h"
+	"../include/Arquivo.h"
+	"../include/Tabela.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1668293800 c:\users\bruno\downloads\cadastropacientecovid\include\buscapaciente.h
+
+1668299136 c:\users\bruno\downloads\cadastropacientecovid\include\tabela.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	"impl/TabelaPrinter.tpp.h"
+
+1668306346 c:\users\bruno\downloads\cadastropacientecovid\include\impl\tabelaprinter.tpp.h
+	<boost/spirit/include/karma.hpp>
+
+1668887042 source:c:\users\bruno\downloads\cadastropacientecovid\src\cadastropaciente.cpp
+	"../include/CadastroPaciente.h"
+	"../include/Paciente.h"
+	"../include/Arquivo.h"
+	"../include/StringUtils.h"
+	"../include/DataUtils.h"
+	"../include/Menus.h"
+	<iostream>
+	<string>
+
+1668218648 c:\users\bruno\downloads\cadastropacientecovid\include\cadastropaciente.h
+
+1668305684 source:c:\users\bruno\downloads\cadastropacientecovid\src\login.cpp
+	<iostream>
+	"../include/Login.h"
+	<string>
+	<string.h>
+
+1668873055 source:c:\users\bruno\downloads\cadastropacientecovid\src\menus.cpp
+	<iostream>
+	<string.h>
+	<string>
+	"../include/Menus.h"
+	"../include/CadastroPaciente.h"
+	"../include/BuscaPaciente.h"
+
+1668655349 source:c:\users\bruno\downloads\cadastropacientecovid\src\paciente.cpp
+	"../include/Paciente.h"
+	<string>
+
+1668655497 source:c:\users\bruno\downloads\cadastropacientecovid\src\tabela.cpp
+	"../include/Tabela.h"
+	<stdexcept>
+	<iomanip>
+	<stdexcept>
+
+1668885621 source:c:\users\bruno\downloads\cadastropacientecovid\src\datautils.cpp
+	"../include/DataUtils.h"
+	"../include/StringUtils.h"
+	<string>
+	<time.h>
+	<iostream>
+
+1668871288 source:c:\users\bruno\downloads\cadastropacientecovid\src\stringutils.cpp
+	"../include/StringUtils.h"
+	<string>
+	<iomanip>
+	<algorithm>
+
